@@ -676,7 +676,8 @@ Due to the split circle of progress-left and progress right, we must use the ani
     font-size: 200%; }
   .resume {
     width: 100%;
-    padding: 20px; }
+    padding: 20px;
+    margin-top: 10px; }
   .grids {
     width: 100%; }
   #apppic img {

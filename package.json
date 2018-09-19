@@ -1,4 +1,7 @@
 {
+   "scripts": {
+      "test": "tap test/\*.js"
+   }
    "name": "website",
    "version": "1.0.0",
    "description": "",
